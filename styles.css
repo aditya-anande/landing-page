@@ -150,7 +150,7 @@ img {
     text-align: right;
 }
 
-.contact-box {
+#contact-box {
     background-color: #3882F6;
     display: flex;
     margin: 50px auto;
@@ -159,18 +159,18 @@ img {
     padding: 30px;
 }
 
-.contact-box h3 {
+#contact-box h3 {
     color: #F9FAF8;
     font-size: 22px;
     margin-bottom: 0px;
 }
 
-.contact-box p {
+#contact-box p {
     margin-top: 0px;
     color: #E5E7EB;
 }
 
-.contact-box input {
+#contact-box input {
     padding: 5px 20px;
     border: 2px solid #fff;
     border-radius: 5px;
