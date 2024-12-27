@@ -13,7 +13,14 @@ body {
     margin: 0px;
 
 }
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
 
+a:hover {
+    color: #a8a8a8;
+}
 /*  */
 .container {
     width: 70%;
