@@ -58,12 +58,14 @@ nav ul{
     margin: auto; */
     padding: 70px 0;
     justify-content: space-around;
+    align-items: center;
 }
 
 .hero h1 {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    margin: 0;
 }
 
 .hero p {
