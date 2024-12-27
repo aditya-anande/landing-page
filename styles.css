@@ -76,6 +76,10 @@ nav ul{
     padding: 5px 10px;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+  }
 /* Hero End */
 
 /* Text Box Section Start */
